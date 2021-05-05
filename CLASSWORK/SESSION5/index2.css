@@ -1,0 +1,37 @@
+*{
+  background-color: tomato;
+  font-size: 100px;
+}
+div{
+  text-align: center;
+}
+
+h1{
+  color: purple;
+  font-size: 40px;
+  text-decoration: underline;
+}
+
+.one{
+  color: green;
+  background-color: grey;
+  font-size: 20px;
+}
+
+.one.max{
+   background-color: red;
+}
+
+
+
+.two{
+  color: red;
+}
+
+.three{
+  color: purple;
+}
+
+#one{
+  background-color: orange;
+}
